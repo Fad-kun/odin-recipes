@@ -48,5 +48,10 @@ p {
 
 .idle3 {
   text-decoration: none;
-  line-height: 38px;
+  line-height: 34px;
+}
+
+.idle4 {
+  text-decoration: none;
+  line-height: 30px;
 }
